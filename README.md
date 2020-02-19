@@ -25,7 +25,7 @@ Markdown is a lightweight option for formatting text. See this [cheat sheet](htt
 |Colin|   |
 |Danny|   |
 |Edward|   |
-|Erina|   |
+|Erina| @erina915 |
 |Georg| @GeorgLink |
 |Hugh|   |
 |James|   |
@@ -36,7 +36,7 @@ Markdown is a lightweight option for formatting text. See this [cheat sheet](htt
 |Lee|   |
 |Mark|   |
 |Mikel|   |
-|Monique|   |
+|Monique| @mgustafson  |
 |Nate|   |
 |Nicholas|   |
 |Piper|   |
