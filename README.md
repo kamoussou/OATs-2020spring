@@ -29,7 +29,7 @@ Markdown is a lightweight option for formatting text. See this [cheat sheet](htt
 |Georg| @GeorgLink |
 |Hugh|   |
 |James|   |
-|Joe|   |
+|Joe|  @cupajoe101 |
 |Johnathan|   |
 |Josue|   |
 |Kossi|   |
