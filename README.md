@@ -12,7 +12,7 @@ Markdown is a lightweight option for formatting text. See this [cheat sheet](htt
 
 |Name|GitHub Handle|
 |---|---|
-|Adam|   |
+|Adam| @astrasser6  |
 |Alex|@abyczkowski|
 |Andy|   |
 |Ben|  @bschramm2001 |
