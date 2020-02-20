@@ -13,15 +13,15 @@ Markdown is a lightweight option for formatting text. See this [cheat sheet](htt
 |Name|GitHub Handle|
 |---|---|
 |Adam|   |
-|Alex|   |
+|Alex|@abyczkowski|
 |Andy|   |
-|Ben|   |
+|Ben|  @bschramm2001 |
 |Brett|   |
 |Brody|   |
 |Cade|   |
 |Caleb|   |
 |Chase|   |
-|Chris|   |
+|Chris| @chriskiihne  |
 |Colin|   |
 |Danny|   |
 |Edward|   |
@@ -33,11 +33,11 @@ Markdown is a lightweight option for formatting text. See this [cheat sheet](htt
 |Johnathan|   |
 |Josue|   |
 |Kossi|   |
-|Lee|   |
+|Lee| @leebuhrmann   |
 |Mark|   |
 |Mikel|   |
-|Monique| @mgustafson  |
-|Nate|   |
-|Nicholas|   |
+|Monique| @mmgustafson |
+|Nate| @Serdnan |
+|Nicholas| @NickBohlen  |
 |Piper|   |
 |Spencer|   |
