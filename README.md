@@ -38,6 +38,6 @@ Markdown is a lightweight option for formatting text. See this [cheat sheet](htt
 |Mikel|   |
 |Monique| @mmgustafson |
 |Nate| @Serdnan |
-|Nicholas|   |
+|Nicholas| @NickBohlen  |
 |Piper|   |
 |Spencer|   |
