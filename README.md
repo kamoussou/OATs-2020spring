@@ -12,32 +12,32 @@ Markdown is a lightweight option for formatting text. See this [cheat sheet](htt
 
 |Name|GitHub Handle|
 |---|---|
-|Adam|   |
-|Alex|   |
-|Andy|   |
+|Adam| @astrasser6  |
+|Alex|@abyczkowski|
+|Andy| @aandilolo  |
 |Ben|  @bschramm2001 |
 |Brett|   |
 |Brody|   |
 |Cade|   |
 |Caleb|   |
 |Chase|   |
-|Chris|   |
-|Colin|   |
+|Chris| @chriskiihne  |
+|Colin| @cbrammeier7538 |
 |Danny|   |
 |Edward|   |
-|Erina|   |
+|Erina| @erina915 |
 |Georg| @GeorgLink |
-|Hugh|   |
+|Hugh| @hmmrton|
 |James|   |
 |Joe|  @cupajoe101 |
-|Johnathan|   |
+|Johnathan| @ToxicEagle9271 |
 |Josue|   |
 |Kossi|   |
-|Lee|   |
+|Lee| @leebuhrmann   |
 |Mark|   |
 |Mikel|   |
-|Monique|   |
-|Nate|   |
-|Nicholas|   |
+|Monique| @mmgustafson |
+|Nate| @Serdnan |
+|Nicholas| @NickBohlen  |
 |Piper|   |
 |Spencer|   |
