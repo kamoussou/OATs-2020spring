@@ -39,5 +39,5 @@ Markdown is a lightweight option for formatting text. See this [cheat sheet](htt
 |Monique| @mmgustafson |
 |Nate| @Serdnan |
 |Nicholas| @NickBohlen  |
-|Piper|   |
+|Piper| PiperKBrown |
 |Spencer|   |
